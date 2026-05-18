@@ -124,7 +124,7 @@ const resultsOpenDate = computed(
     <ul class="mb-4">
       <li>
         * Check out the projects made in
-        <ULink href="https://nethack.biszweb.club/showcase" target="_blank"
+        <ULink href="https://hack2601.binj.dev/results" target="_blank"
           >last year's network hackathon!</ULink
         >
         Maybe you'll find inspiration there.
